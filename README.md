@@ -18,3 +18,7 @@ A *red* square is a space that is filled in.
 To make a square red, just left click on it.  You can make it white by left or right clicking on it.
 
 To make a square gray, right click on it.  You can make it white by left or right clicking on it.
+
+### Play
+
+You can play this game [here!](http://thomasvidas.github.io/picross/)
