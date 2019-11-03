@@ -19,6 +19,9 @@ To make a square red, just left click on it.  You can make it white by left or r
 
 To make a square gray, right click on it.  You can make it white by left or right clicking on it.
 
+# Copyright & License
+  Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
+
 ### Play
 
 You can play this game [here!](http://thomasvidas.github.io/picross/)
